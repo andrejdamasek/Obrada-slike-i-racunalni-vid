@@ -3,4 +3,6 @@ Repozitorij je napravljen za potrebe izrade seminarskog rada iz kolegija Obrada 
 
 Tema rada je Procjena rpbusnosti slikovnih klasifikatora na JPEG kompresiju.
 
-Unutar ovog repozitorija nalaze se svi podaci koji su korišteni pri izradi ovog modela uključujući skup podataka, sve tablice i svi stvoreni modeli.
+Unutar ovog repozitorija nalazi se jupter bilježnica i svi csv datoteke.
+
+Skup podataka Caltech 256 Image Dataset dostupan na https://www.kaggle.com/datasets/jessicali9530/caltech256
