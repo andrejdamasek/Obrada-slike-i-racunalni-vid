@@ -1,0 +1,9 @@
+true,true_name,pred,pred_name,count
+1,002.american-flag,3,004.baseball-bat,3
+2,003.backpack,3,004.baseball-bat,2
+1,002.american-flag,7,008.bathtub,1
+6,007.bat,2,003.backpack,1
+6,007.bat,7,008.bathtub,1
+9,010.beer-mug,4,005.baseball-glove,1
+5,006.basketball-hoop,3,004.baseball-bat,1
+7,008.bathtub,2,003.backpack,1
